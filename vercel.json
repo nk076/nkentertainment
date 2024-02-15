@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://bjjdoc.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+}
